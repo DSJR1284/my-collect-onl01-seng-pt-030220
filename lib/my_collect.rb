@@ -8,5 +8,5 @@ def my_collect(students)
  collect
 end 
 
-
+ my_collect(students) {|s| x.split(" ").first}
  
