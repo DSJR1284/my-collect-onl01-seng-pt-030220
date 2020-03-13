@@ -5,5 +5,5 @@ def my_collect(students)
   collect << yield (students [x])
   x += 1 
   end 
- collect
+ 
 end 
