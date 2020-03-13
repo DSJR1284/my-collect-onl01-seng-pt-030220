@@ -1,4 +1,5 @@
 def my_collect(students)
+  collect = []
  
  
  
